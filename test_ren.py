@@ -1,5 +1,4 @@
 import requests
-import json
 
 url = "https://test-mobile-configuration-files.s3.eu-central-1.amazonaws.com/stories-test/shelf.json"
 
